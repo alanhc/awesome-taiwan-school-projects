@@ -12,7 +12,7 @@
 * [北科課程好朋友](https://github.com/gnehs/ntut-course-web) ![GitHub last commit](https://img.shields.io/github/last-commit/gnehs/ntut-course-web)
 * [校務通系列(高科、中山、文藻)](https://github.com/abc873693/ap_common) ![GitHub last commit](https://img.shields.io/github/last-commit/abc873693/ap_common)
 * [classIn](https://github.com/charlieworld/classIn)-輔大選課交流  ![GitHub last commit](https://img.shields.io/github/last-commit/charlieworld/classIn)
-* [MCU-up 銘傳金手指3.0](https://github.com/mcuosc/MCU-up) - 選課評價網站 [![GitHub fork](https://img.shields.io/github/forks/mcuosc/MCU-up?style=?style=for-the-badge)](https://github.com/mcuosc/MCU-up/network/members) [![GitHub star](https://img.shields.io/github/stars/mcuosc/MCU-up?style=?style=for-the-badge)](https://github.com/mcuosc/MCU-up/stargazers/) ![GitHub last commit](https://img.shields.io/github/last-commit/mcuosc/MCU-up)
+* [MCU-up 銘傳金手指3.0](https://github.com/mcuosc/MCU-up) - 選課評價網站  [![GitHub star](https://img.shields.io/github/stars/mcuosc/MCU-up?style=?style=for-the-badge)](https://github.com/mcuosc/MCU-up/stargazers/) [![GitHub last commit](https://img.shields.io/github/last-commit/mcuosc/MCU-up)](https://github.com/mcuosc/MCU-up/commit)
 
 ## 資訊社團
 * 台灣大學
