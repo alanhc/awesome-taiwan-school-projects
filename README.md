@@ -7,12 +7,12 @@
 有鑑於大家都會利用課外時間做一些跟學校有關的side project，但畢業之後就沒人維護導致系統漸漸沒落，因此建立這個列表可以更方便的聚集同校的人一起改進自己學校的系統!
 
 ## 專案
-* NTUCourse Neo - 課程排課系統 [github](https://github.com/NTUCourse-Neo)
-* 交大選課模擬器 [github](https://github.com/splitline/NCTUwU)
-* 北科課程好朋友 [github](https://github.com/NTUCourse-Neo)
-* 校務通系列(高科、中山、文藻) - [github](https://github.com/abc873693/ap_common)
-* classIn - 輔大選課交流 [github](https://github.com/charlieworld/classIn)
-* MCU-up 銘傳金手指3.0 - 選課評價網站 [github](https://github.com/mcuosc/MCU-up) [FB](https://www.facebook.com/upMCU) [demo](https://up.mcuosc.dev/)
+* [NTUCourse Neo-課程排課系統](https://github.com/NTUCourse-Neo)
+* [交大選課模擬器](https://github.com/splitline/NCTUwU)
+* [北科課程好朋友](https://github.com/NTUCourse-Neo)
+* [校務通系列(高科、中山、文藻)](https://github.com/abc873693/ap_common)
+* [classIn](https://github.com/charlieworld/classIn)-輔大選課交流
+* [MCU-up 銘傳金手指3.0](https://github.com/mcuosc/MCU-up) - 選課評價網站 
 
 ## 資訊社團
 * 台灣大學
