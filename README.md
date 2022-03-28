@@ -11,8 +11,8 @@
 * [交大選課模擬器](https://github.com/splitline/NCTUwU)
 * [北科課程好朋友](https://github.com/NTUCourse-Neo)
 * [校務通系列(高科、中山、文藻)](https://github.com/abc873693/ap_common)
-* [classIn](https://github.com/charlieworld/classIn)-輔大選課交流
-* [MCU-up 銘傳金手指3.0](https://github.com/mcuosc/MCU-up) - 選課評價網站 [![GitHub stars](https://img.shields.io/github/forks/mcuosc/MCU-up?style=social)](https://github.com/mcuosc/MCU-up/stargazers/)
+* [classIn](https://github.com/charlieworld/classIn)-輔大選課交流 
+* [MCU-up 銘傳金手指3.0](https://github.com/mcuosc/MCU-up) - 選課評價網站 [![GitHub fork](https://img.shields.io/github/forks/mcuosc/MCU-up?style=?style=for-the-badge)](https://github.com/mcuosc/MCU-up/network/members) [![GitHub star](https://img.shields.io/github/stars/mcuosc/MCU-up?style=?style=for-the-badge)](https://github.com/mcuosc/MCU-up/stargazers/)
 
 ## 資訊社團
 * 台灣大學
