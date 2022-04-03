@@ -7,18 +7,110 @@
 有鑑於大家都會利用課外時間做一些跟學校有關的side project，但畢業之後就沒人維護導致系統漸漸沒落，因此建立這個列表可以更方便的聚集同校的人一起改進自己學校的系統!
 
 ## 專案
-* [NTUCourse Neo-課程排課系統](https://github.com/NTUCourse-Neo)
-* [交大選課模擬器](https://github.com/splitline/NCTUwU) 
-* [北科課程好朋友](https://github.com/gnehs/ntut-course-web) ![GitHub last commit](https://img.shields.io/github/last-commit/gnehs/ntut-course-web)
-* [校務通系列(高科、中山、文藻)](https://github.com/abc873693/ap_common) ![GitHub last commit](https://img.shields.io/github/last-commit/abc873693/ap_common)
-* [classIn](https://github.com/charlieworld/classIn)-輔大選課交流  ![GitHub last commit](https://img.shields.io/github/last-commit/charlieworld/classIn)
-* [MCU-up 銘傳金手指3.0](https://github.com/mcuosc/MCU-up) - 選課評價網站  [![GitHub star](https://img.shields.io/github/stars/mcuosc/MCU-up?style=?style=for-the-badge)](https://github.com/mcuosc/MCU-up/stargazers/) [![GitHub last commit](https://img.shields.io/github/last-commit/mcuosc/MCU-up)](https://github.com/mcuosc/MCU-up/commit)
+<table>
+  <tr>
+    <th> 學校 </th>
+    <th>star</th>
+    <th>上次修改</th>
+    <th>專案</th>
+    <th>link</th>
+   
+  </tr>
+ 
+ <tr>
+    <td> 台灣大學 </td>
+    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/NTUCourse-Neo/ncn-frontend?style=flat-square"> </td>
+    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/last-commit/NTUCourse-Neo/ncn-frontend?style=flat-square">  </td>
+    <td> NTUCourse Neo frontend</td>
+    <td> https://github.com/NTUCourse-Neo/ncn-frontend </td>
+  </tr>
+  <tr>
+    <td> 台灣大學 </td>
+    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ericyu/ntucourse?style=flat-square"> </td>
+    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/last-commit/ericyu/ntucourse?style=flat-square">  </td>
+    <td> 台大選課輔助程式 </td>
+    <td> https://github.com/ericyu/ntucourse </td>
+  </tr>
+  <tr>
+    <td> 台灣大學 </td>
+    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/NTUCourse-Neo/ncn-backend?style=flat-square"> </td>
+    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/last-commit/NTUCourse-Neo/ncn-backend?style=flat-square">  </td>
+    <td> NTUCourse Neo backend </td>
+    <td> https://github.com/NTUCourse-Neo/ncn-backend </td>
+  </tr>
+  <tr>
+    <td> 銘傳大學 </td>
+    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/mcuosc/MCU-up?style=flat-square"> </td>
+    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/last-commit/mcuosc/MCU-up?style=flat-square">  </td>
+    <td> MCU-up 銘傳金手指3.0 </td>
+    <td> https://github.com/mcuosc/MCU-up </td>
+  </tr>
+ <tr>
+    <td> 銘傳大學 </td>
+    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/yoyo930021/MCU_Course?style=flat-square"> </td>
+    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/last-commit/yoyo930021/MCU_Course?style=flat-square">  </td>
+    <td> MCU_Course 銘傳大學模擬排課系統 </td>
+    <td> https://github.com/yoyo930021/MCU_Course </td>
+  </tr>
+ <tr>
+    <td> 高科、中山、文藻、台科 </td>
+    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/abc873693/ap_common?style=flat-square"> </td>
+    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/last-commit/abc873693/ap_common?style=flat-square">  </td>
+    <td> 校務通系列介面與函式共用 </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td> 高科 </td>
+    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/NKUST-ITC/NKUST-AP-Flutter?style=flat-square"> </td>
+    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/last-commit/NKUST-ITC/NKUST-AP-Flutter?style=flat-square">  </td>
+    <td> 高科校務通(NKUST AP) </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td> 中山 </td>
+    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/nsysu-code-club/NSYSU-AP?style=flat-square"> </td>
+    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/last-commit/nsysu-code-club/NSYSU-AP?style=flat-square">  </td>
+    <td> 中山校務通 </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td> 文藻 </td>
+    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/abc873693/WTUC-AP?style=flat-square"> </td>
+    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/last-commit/abc873693/WTUC-AP?style=flat-square">  </td>
+    <td> 文藻校務通 </td>
+    <td>  </td>
+  </tr>
+ <tr>
+    <td> 台科 </td>
+    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/abc873693/NTUST-AP?style=flat-square"> </td>
+    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/last-commit/abc873693/NTUST-AP?style=flat-square">  </td>
+    <td> 台科校務通 </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td> 輔仁大學 </td>
+    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/charlieworld/classIn?style=flat-square"> </td>
+    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/last-commit/charlieworld/classIn?style=flat-square">  </td>
+    <td> classIn </td>
+    <td> https://github.com/charlieworld/classIn </td>
+  </tr>
+ <tr>
+    <td> 北科 </td>
+    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/gnehs/ntut-course-web?style=flat-square"> </td>
+    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/last-commit/gnehs/ntut-course-web?style=flat-square">  </td>
+    <td> 北科課程好朋友 </td>
+    <td> https://github.com/gnehs/ntut-course-web </td>
+  </tr>
+ <!-- 請複製下面這範例並依序修改~
+  <tr>
+    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/帳號名稱/repo名稱?style=flat-square"> </td>   
+    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/last-commit帳號名稱/repo名稱?style=flat-square">  </td>
+    <td> 您的專案名稱 </td>
+    <td> 簡短說明一下您使用的技術 </td>
+  </tr>
+ -->
+</table>
 
-## 資訊社團
-* 台灣大學
-  * 台大開源社 [website](https://ntuosc.org/) [github](https://github.com/NTUOSC)
-* 銘傳大學
-  * MCU開源社 [website](https://www.mcuosc.dev/) [github](https://github.com/mcuosc) 
 
 ## 如何貢獻
 貢獻此份清單可以讓之後的學弟妹可以更方便使學弟妹更快的知道他們可以參與校內的開源專案，同時也可以讓更多人知道您的專案!
