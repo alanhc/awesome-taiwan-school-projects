@@ -57,35 +57,35 @@
     <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/abc873693/ap_common?style=flat-square"> </td>
     <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/last-commit/abc873693/ap_common?style=flat-square">  </td>
     <td> 校務通系列介面與函式共用 </td>
-    <td>  </td>
+    <td> https://github.com/abc873693/ap_common </td>
   </tr>
   <tr>
     <td> 高科 </td>
     <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/NKUST-ITC/NKUST-AP-Flutter?style=flat-square"> </td>
     <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/last-commit/NKUST-ITC/NKUST-AP-Flutter?style=flat-square">  </td>
     <td> 高科校務通(NKUST AP) </td>
-    <td>  </td>
+    <td> https://github.com/NKUST-ITC/NKUST-AP-Flutter </td>
   </tr>
   <tr>
     <td> 中山 </td>
     <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/nsysu-code-club/NSYSU-AP?style=flat-square"> </td>
     <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/last-commit/nsysu-code-club/NSYSU-AP?style=flat-square">  </td>
     <td> 中山校務通 </td>
-    <td>  </td>
+    <td> https://github.com/nsysu-code-club/NSYSU-AP </td>
   </tr>
   <tr>
     <td> 文藻 </td>
     <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/abc873693/WTUC-AP?style=flat-square"> </td>
     <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/last-commit/abc873693/WTUC-AP?style=flat-square">  </td>
     <td> 文藻校務通 </td>
-    <td>  </td>
+    <td> https://github.com/abc873693/WTUC-AP </td>
   </tr>
  <tr>
     <td> 台科 </td>
     <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/abc873693/NTUST-AP?style=flat-square"> </td>
     <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/last-commit/abc873693/NTUST-AP?style=flat-square">  </td>
     <td> 台科校務通 </td>
-    <td>  </td>
+    <td> https://github.com/abc873693/NTUST-AP </td>
   </tr>
   <tr>
     <td> 輔仁大學 </td>
