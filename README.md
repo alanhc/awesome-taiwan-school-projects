@@ -16,7 +16,20 @@
     <th>link</th>
    
   </tr>
- 
+ <tr>
+    <td> 台灣大學 </td>
+    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ericyu/ntucourse?style=flat-square"> </td>
+    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/last-commit/ericyu/ntucourse?style=flat-square">  </td>
+    <td> 台大選課輔助程式 </td>
+    <td> https://github.com/ericyu/ntucourse </td>
+  </tr>
+   <tr>
+    <td> 台灣大學 </td>
+    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/henlium/NTU-GPA-Calculator?style=flat-square"> </td>
+    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/last-commit/henlium/NTU-GPA-Calculator?style=flat-square">  </td>
+    <td> NTU GPA Calculator </td>
+    <td> https://github.com/henlium/NTU-GPA-Calculator </td>
+  </tr>
  <tr>
     <td> 台灣大學 </td>
     <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/NTUCourse-Neo/ncn-frontend?style=flat-square"> </td>
@@ -24,13 +37,7 @@
     <td> NTUCourse Neo frontend</td>
     <td> https://github.com/NTUCourse-Neo/ncn-frontend </td>
   </tr>
-  <tr>
-    <td> 台灣大學 </td>
-    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ericyu/ntucourse?style=flat-square"> </td>
-    <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/last-commit/ericyu/ntucourse?style=flat-square">  </td>
-    <td> 台大選課輔助程式 </td>
-    <td> https://github.com/ericyu/ntucourse </td>
-  </tr>
+  
   <tr>
     <td> 台灣大學 </td>
     <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/NTUCourse-Neo/ncn-backend?style=flat-square"> </td>
